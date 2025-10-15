@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola a todos! 👋
+
+Soy Luciano Emanuel Sum Bastón, tengo 19 años y nací en Tacuarembó, Uruguay.
 
 <!--
 **LuchoSum/LuchoSum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
